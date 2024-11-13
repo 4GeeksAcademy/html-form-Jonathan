@@ -1,0 +1,43 @@
+body{ 
+    background-color: rgb(0, 0, 0); 
+    padding-top: 15px;
+}
+.container{ 
+   width: 900px;
+    margin:auto ; 
+    
+    background-color:white;
+}  
+.navbar{ 
+    padding-bottom: 20px;
+}
+.fields{ 
+   background-color: rgb(255, 0, 0); 
+   
+} 
+#missing{ 
+    color:brown
+} 
+#name{ 
+    width: 400px;
+}
+#last{ 
+    width: 400px;
+} 
+#city{ 
+    width: 400px;
+}
+#postal{ 
+    width: 180px;
+} 
+#ciu{ 
+    width: 180px; 
+    height: 30px;
+} 
+#mensaje{ 
+    width: 415px;
+} 
+.botones{ 
+    display: flex; 
+    justify-content: flex-end;
+}
